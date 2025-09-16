@@ -5,10 +5,10 @@ class Person {
 	this.name=name;
 	this.age=age;
 	}
-get name(){
+get name_(){
 			return(this.name);
 			}
-set age(age)
+set age_(age)
 	{
 		this.age=age;
 	}
